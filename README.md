@@ -2,10 +2,10 @@
 
 <h2>🎓 Certifications</h2>
 
-- 📜 [CompTia A+](https://www.youtube.com/)
-- 📜 [Google IT Professtional](https://www.youtube.com/)
-- 📜 [Vulnerability Managment](https://www.youtube.com/)
-- 📜 [Google Cybersecurity](https://www.youtube.com/)
+- 📜 [CompTia A+](https://imgur.com/a/jG5v43O)
+- 📜 [Google IT Professtional](https://imgur.com/a/PNL38Qn)
+- 📜 [Vulnerability Managment](https://imgur.com/a/83nDl4O)
+- 📜 [Google Cybersecurity](https://imgur.com/a/NxUlk6g)
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

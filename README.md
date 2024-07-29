@@ -10,7 +10,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-- [Active Directory Home Lab](https://github.com/im-aliff/LABURL)
+- [Active Directory Home Lab](https://github.com/im-aliff/ActiveDirectoryLab/blob/main/README.md)
 - [Python](https://github.com/im-aliff/LABURL)
 
 

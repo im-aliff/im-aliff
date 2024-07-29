@@ -11,7 +11,7 @@
 
 
 - [Active Directory Home Lab](https://github.com/im-aliff/ActiveDirectoryLab/blob/main/README.md)
-- [Active Directory Home Lab SEIM](https://google.com)
+- [Active Directory Home Lab SEIM](https://github.com/im-aliff/ActiveDirectory-SIEM-Lab/blob/main/README.md)
 - [Python](https://github.com/im-aliff/LABURL)
 
 
